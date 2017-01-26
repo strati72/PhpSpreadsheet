@@ -453,5 +453,4 @@ class Csv extends BaseReader implements IReader
         $this->_colDataType[$colLetter] = $dateType;
         return $this;
     }
-
 }
